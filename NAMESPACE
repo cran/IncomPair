@@ -1,0 +1,5 @@
+export(parmb)
+export(permb)
+export(rankb)
+importFrom("stats", "cor", "pnorm", "pt", "runif")
+importFrom("methods", "show", "new", "representation", "setClass", "setMethod")
